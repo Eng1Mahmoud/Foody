@@ -1,0 +1,76 @@
+
+
+[
+    {
+    "id": 1,
+    "name": "tomatoes",
+    "description": "Description for Product tomatoes",
+    "category": "vegetables",
+    "price": 299.99,
+    "image": "https://i.ibb.co/Ks0M9Xc/product-1.jpg",
+    "descount": 10
+    },
+    {
+    "id": 2,
+    "name": "cucumber",
+    "description": "Description for Product cucumber",
+    "category": "vegetables",
+    "price": 49.99,
+    "image": "https://i.ibb.co/v1cR9GL/product-5.jpg",
+    "descount": 30
+    },
+    {
+    "id": 3,
+    "name": "pineapple",
+    "description": "Description for Product pineapple",
+    "category": "fruits",
+    "price": 199.95,
+    "image": "https://i.ibb.co/jVbnmMY/product-2.jpg" ,
+      "descount": 90
+    },
+    {
+    "id": 4,
+    "name": "Kaka",
+    "description": "Description for Product Kaka",
+    "category": "fruits",
+    "price": 599.99,
+    "image": "https://i.ibb.co/HCc2hw5/product-6.jpg" ,
+    "descount":10
+    },
+    {
+    "id": 5,
+    "name": "pepper",
+    "description": "Description for Product pepper",
+    "category": "vegetables",
+    "price": 39.99,
+    "image": "https://i.ibb.co/hWfJcFD/product-3.jpg" ,
+    "descount": 70
+    },
+    {
+    "id": 6,
+    "name": "potatoes",
+    "description": "Description for Product potatoes",
+    "category": "vegetables",
+    "price": 149.95,
+    "image":"https://i.ibb.co/fGPY83v/product-7.jpg" ,
+    "descount": 90
+    },
+    {
+        "id": 7,
+        "name": "banana",
+        "description": "Description for Product banana",
+        "category": "fruits",
+        "price": 149.95,
+        "image":"https://i.ibb.co/hL3gXMd/product-8.jpg"  ,
+        "descount": 10
+        },
+        {
+            "id": 8,
+            "name": "Strawberry",
+            "description": "Description for Product Strawberry",
+            "category": "fruits",
+            "price": 149.95,
+            "image":"https://i.ibb.co/Wkf2b6k/product-4.jpg"  ,
+            "descount": 50
+            }
+    ]

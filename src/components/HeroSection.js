@@ -8,7 +8,7 @@ function HeroSection(props) {
         <div className="hearoSection">
             <div className="content px-5">
                 <h1>{props.h1}</h1>
-                <Breadcrumb>
+                <Breadcrumb className="control">
                     <Breadcrumb.Item onClick={() => { navigat('/') }}>{props.p1}</Breadcrumb.Item>
                     <Breadcrumb.Item href="#">
                         {props.p2}

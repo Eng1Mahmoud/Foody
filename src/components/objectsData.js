@@ -63,70 +63,6 @@ let FeatureData = [
 
 ];
 
-let Menu = [
-    // this array contian inpormation every memper
-    {
-        img: img1m,
-        prevPrice: 25,
-        price: 22,
-        title: "Fresh Tomato",
-        catigory: "fruits"
-    },
-    {
-        img: img2m,
-        prevPrice: 30,
-        price: 20,
-        title: "Fresh Tomato",
-        catigory: "veg"
-
-    },
-    {
-        img: img3m,
-        prevPrice: 25,
-        price: 19,
-        title: "Fresh Tomato",
-        catigory: "fruits"
-    },
-    {
-        img: img4m,
-        prevPrice: 20,
-        price: 17,
-        title: "Fresh Tomato",
-        catigory: "veg"
-    },
-    {
-        img: img5m,
-        prevPrice: 25,
-        price: 22,
-        title: "Fresh Tomato",
-        catigory: "veg"
-
-    },
-    {
-        img: img6m,
-        prevPrice: 15,
-        price: 12,
-        title: "Fresh Tomato",
-        catigory: "fruits"
-
-    },
-    {
-        img: img7m,
-        prevPrice: 13,
-        price: 10,
-        title: "Fresh Tomato",
-        catigory: "veg"
-
-    },
-    {
-        img: img8m,
-        prevPrice: 9,
-        price: 6,
-        title: "Fresh Tomato",
-        catigory: "fruits"
-
-    }
-];
 
 let BlogsData = [
     // this array contian inpormation every memper
@@ -160,4 +96,4 @@ let BlogsData = [
     },
 ];
 export default BlogsData
-export { FeatureData, Menu, itemSlider }
+export { FeatureData,  itemSlider }
