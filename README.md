@@ -5,9 +5,9 @@ This project was Created with [Create React App] It is an e-commerce website for
 ## run project:
 
 In the project directory, you can run:
- npm start
+ `npm start`
  
-## build Project For Production : 
+## build Project  : 
 
 `npm run build`
 
