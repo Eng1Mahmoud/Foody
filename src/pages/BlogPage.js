@@ -1,7 +1,7 @@
 import React from 'react';
-import HeroSection from './HeroSection';
-import Blog from './Blog'
-import Footer from './Footer'
+import HeroSection from '../components/HeroSection';
+import Blog from '../components/Blog'
+import Footer from '../components/Footer'
 import BlogsData from '../components/objectsData'// import data for blogs 
 
 let BlogData = BlogsData.slice(0, 6) // import data you need only

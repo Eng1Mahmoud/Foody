@@ -1,9 +1,9 @@
 import React from 'react';
-import HeroSection from './HeroSection';
-import Best from './Best';
-import Features from './Features';
-import Firm from './Firm';
-import Footer from './Footer'
+import HeroSection from '../components/HeroSection';
+import Best from '../components/Best';
+import Features from '../components/Features';
+import Firm from '../components/Firm';
+import Footer from '../components/Footer'
 function About() {
     return (
         <div className="about">

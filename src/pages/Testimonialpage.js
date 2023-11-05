@@ -1,7 +1,7 @@
 import React from 'react';
-import HeroSection from './HeroSection';
-import Swipers from './Swiper';
-import Footer from './Footer'
+import HeroSection from '../components/HeroSection';
+import Swipers from '../components/Swiper';
+import Footer from '../components/Footer'
 function Testimonialpage() {
     return (
         <div>

@@ -1,7 +1,7 @@
 import React from 'react';
-import HeroSection from './HeroSection';
-import Contact from './Contact'
-import Footer from './Footer'
+import HeroSection from '../components/HeroSection';
+import Contact from '../components/Contact'
+import Footer from '../components/Footer'
 function ContactPag() {
     return (
         <div>

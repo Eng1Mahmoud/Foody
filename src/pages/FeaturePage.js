@@ -1,7 +1,7 @@
 import React from 'react';
-import HeroSection from './HeroSection';
-import Features from './Features';
-import Footer from './Footer'
+import HeroSection from '../components/HeroSection';
+import Features from '../components/Features';
+import Footer from '../components/Footer'
 function FeaturePage() {
     return (
         <div>

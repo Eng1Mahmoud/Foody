@@ -1,9 +1,9 @@
 import React from 'react';
-import HeroSection from './HeroSection';
-import Product from './Product';
-import Firm from './Firm';
-import Swipers from './Swiper';
-import Footer from './Footer'
+import HeroSection from '../components/HeroSection';
+import Product from '../components/Product';
+import Firm from '../components/Firm';
+import Swipers from '../components/Swiper';
+import Footer from '../components/Footer'
 function ProductsPage() {
     return (
         <div>

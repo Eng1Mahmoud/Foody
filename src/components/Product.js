@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import HeadSection from "./HeadSection";
 import { FaEye, FaShoppingBag } from "react-icons/fa"; // import icon FaEye
 
-import productsData from "./Products.json";// import all product
+import productsData from "../Products.json";// import all product
 
 function Product() {
   let navigat = useNavigate();
@@ -36,7 +36,7 @@ function Product() {
               p="Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo."
             />
           </div>
-          <div className="list col-md-6 col-sm-12  py-4  text-md-end text-sm-center d-flex justify-content-end ">
+          <div className="list col-md-6 col-sm-12  py-4  text-md-end text-sm-center d-flex justify-content-start justify-content-md-end ">
             <select
               className="form-select"
               aria-label="Default select example"

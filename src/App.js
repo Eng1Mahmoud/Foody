@@ -3,13 +3,13 @@ import React, { useState, useEffect } from 'react'
 import { Route, Routes, BrowserRouter } from 'react-router-dom'
 
 import Header from './components/Header';
-import Home from './components/Home'
-import About from './components/About'
-import ProductsPage from './components/ProductsPage'
-import BlogPage from './components/BlogPage'
-import ContactPage from './components/ContactPag'
-import FeaturePage from './components/FeaturePage';
-import Testimonialpage from './components/Testimonialpage';
+import Home from './pages/Home'
+import About from './pages/About'
+import ProductsPage from './pages/ProductsPage'
+import BlogPage from './pages/BlogPage'
+import ContactPage from './pages/ContactPag'
+import FeaturePage from './pages/FeaturePage';
+import Testimonialpage from './pages/Testimonialpage';
 import Portal from './components/Portal';
 import ScrollTop from './components/ScrollTop'
 
