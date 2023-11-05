@@ -4,13 +4,18 @@ This project was Created with [Create React App] It is an e-commerce website for
 
 ## run project 
 In the project directory, you can run:
-### npm start
-
-### `npm run build`
+ npm start
+## build Project For Production : `npm run build`
 
 Builds the app for production 
 
 
 ## Skills 
 
-Html Css Javascript Bootstrap React Scss Swiper 
+1- Html 
+2- Css
+3- Javascript 
+4- Bootstrap 
+5- React 
+6- Scss 
+7- Swiper 
